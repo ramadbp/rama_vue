@@ -1,0 +1,8 @@
+name = "rama-vue"
+compatibility_date = "2024-01-01"
+pages_build_output_dir = "dist"
+
+[[d1_databases]]
+binding = "DB"  # Nama variabel yang digunakan di Worker
+database_name = "rental_outdoor"
+database_id = "8df85d81-0633-4c25-8656-ae59a77336ce"  # Ganti dengan Database ID Anda
